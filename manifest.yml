@@ -3,6 +3,6 @@ applications:
       memory: 128M
       instance: 1
       name: intern_static_files
-      host: intern_static_files
+      host: liteplandemo
       disk_quota: 1024M
       buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
